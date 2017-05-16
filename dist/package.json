@@ -1,0 +1,10 @@
+{
+ "name": "bbgrocery",
+ "version": "1.0.0",
+ "description": "grocery deliver",
+ "author": "Ray.Z",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
