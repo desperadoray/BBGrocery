@@ -1,7 +1,6 @@
 <template>
   <div class="Nav">
-    NavBar 
-    <div class = ""><span class = "glyphicon glyphicon-barcode"></span></div>
+    
   </div>
 </template>
 
