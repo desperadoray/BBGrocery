@@ -24,7 +24,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 	.jumbotron{
-		margin-top:10%;
+		margin-top:3%;
 	}
 	h1, h2{
 		margin:auto;
